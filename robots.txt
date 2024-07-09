@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dayergen.github.io/sitemap
+Sitemap: https://dayergen.github.io/app/sitemap
+Sitemap: https://dayergen.github.io/assets/sitemap
+Sitemap: https://dayergen.github.io/css/sitemap
+Sitemap: https://dayergen.github.io/includes/sitemap
+Sitemap: https://dayergen.github.io/item/sitemap
+Sitemap: https://dayergen.github.io/src/sitemap
